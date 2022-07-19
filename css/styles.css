@@ -80,3 +80,13 @@ input[type="submit"] {
   text-align: center;
   margin-top: 10px;
 }
+@media only screen and (min-width: 768px) {
+  #shoes-mobile {
+    display: none;
+  }
+  body {
+    display: flex;
+    background: url('../assets/waves.png');
+    background-size: cover;
+  }
+}
