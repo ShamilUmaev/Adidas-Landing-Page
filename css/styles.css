@@ -89,6 +89,7 @@ input[type="submit"] {
     background: url('../assets/waves.png');
     background-size: cover;
   }
+  
   #logo {
     display: block;
     text-align: left;
@@ -110,7 +111,6 @@ input[type="submit"] {
   }
   #text-content {
     width: 50%;
-    max-width: 450px;
   }
   .text-section {
     width: 100%;
