@@ -15,6 +15,10 @@ body {
   height: 100vh;
   margin: 0;
 }
+#text-content {
+  max-width: 450px;
+  margin: 0 auto;
+}
 #logo {
   display: flex;
   justify-content: center;
@@ -48,6 +52,28 @@ p {
   line-height: 28px;
   color: #333333;
   margin: 0px 20px 20px 20px;
+}
+form {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+input[type="text"] {
+  height: 40px;
+  width: 75%;
+  padding: 10px 20px;
+  box-sizing: border-box;
+}
+input[type="submit"] {
+  height: 40px;
+  box-sizing: border-box;
+  width: 15%;
+  background: rgb(43,40,40);
+  background: linear-gradient(90deg, rgba(43,40,40,1) 0%, rgba(124,124,124,1) 35%, rgba(43,40,40,1) 100%);
+  color: #F2F2F2;
+  font-family: 'AdiHaus';
+  font-weight: 700;
+  font-size: 1rem;
 }
 .text-section {
   width: 100%;
