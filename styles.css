@@ -27,3 +27,7 @@ html {
     max-width: 450px;
     margin: 0 auto;
 }
+#logo {
+    display: block;
+    margin: 2rem auto;
+}
