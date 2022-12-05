@@ -112,8 +112,26 @@ background: linear-gradient(90deg, rgba(124,124,124,1) 0%, rgba(43,40,40,1) 100%
         margin: 0;
         width: 100%;
     }
+    h2 {
+        margin-left: 0;
+    }
     .text-content-container {
         text-align: left;
         padding-top: 3rem;
+    }
+    form {
+        justify-content: flex-start;
+    }
+    input[type="text"] {
+        width: 75%;
+    }
+    input[type="submit"] { 
+        width: 20%;
+    }
+    .shoes-desktop-img {
+        width: 45%;
+        background-image: url('./images/shoes.png');
+        background-size: cover;
+        background-repeat: no-repeat;
     }
 }
