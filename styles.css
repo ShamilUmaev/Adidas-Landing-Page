@@ -108,4 +108,12 @@ background: linear-gradient(90deg, rgba(124,124,124,1) 0%, rgba(43,40,40,1) 100%
     .shoes-img-mobile {
         display: none;
     }
+    p {
+        margin: 0;
+        width: 100%;
+    }
+    .text-content-container {
+        text-align: left;
+        padding-top: 3rem;
+    }
 }
