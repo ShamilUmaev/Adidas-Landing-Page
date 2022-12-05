@@ -51,7 +51,7 @@ h2 {
     color: #423A3A;
     text-transform: uppercase;
     width: 90%;
-    margin: 3rem auto;
+    margin: 2.5rem auto;
 }
 h2 span {
     font-weight: 400;
@@ -66,7 +66,7 @@ p {
     margin: 1rem auto;
 }
 form {
-    margin-top: 4rem;
+    margin-top: 6rem;
     display: flex;
     justify-content: center;
 }
