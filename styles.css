@@ -26,6 +26,7 @@ html {
     width: 100%;
     max-width: 450px;
     margin: 0 auto;
+    padding-bottom: 4rem;
 }
 #logo {
     display: block;
@@ -82,7 +83,7 @@ input[type="submit"] {
     padding: 1.5rem 2rem;
     background: rgb(124,124,124);
     background: rgb(124,124,124);
-background: linear-gradient(90deg, rgba(124,124,124,1) 0%, rgba(43,40,40,1) 100%);
+    background: linear-gradient(90deg, rgba(124,124,124,1) 0%, rgba(43,40,40,1) 100%);
     border-radius: 3px;
     font-size: 1.6rem;
     color: #FFFFFF;
