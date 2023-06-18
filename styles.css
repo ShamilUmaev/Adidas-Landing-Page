@@ -21,6 +21,7 @@ html {
 }
 .page-container {
     width: 100%;
+    min-width: 380px;
 }
 .inner-container {
     width: 100%;
