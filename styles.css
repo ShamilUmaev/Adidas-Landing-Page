@@ -26,7 +26,7 @@ html {
     width: 100%;
     max-width: 450px;
     margin: 0 auto;
-    padding-bottom: 4rem;
+    padding-bottom: 5rem;
 }
 #logo {
     display: block;
@@ -67,7 +67,7 @@ p {
     margin: 1rem auto;
 }
 form {
-    margin-top: 2.5rem;
+    margin-top: 6rem;
     display: flex;
     justify-content: center;
 }
